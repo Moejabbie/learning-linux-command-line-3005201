@@ -40,4 +40,3 @@ fi
 echo "----------------------------------------------------"
 
 echo "Setup complete. You can now use 'cd ~/repo' from anywhere, or 'cd repo' once you are in the home directory (~)."
-
